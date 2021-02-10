@@ -16,7 +16,7 @@ $init = new Bom();
 
 $init->type = 2; //Type 2 untuk telpon, Type 1 untuk sms
 
-$init->no = "081572571571"; //Nomer Hp tujuan
+$init->no = "081320115291"; //Nomer Hp tujuan
 
 if ($init->type == 1) {
 
